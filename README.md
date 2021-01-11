@@ -8,6 +8,11 @@ React/Redux
 Object-oriented programming
 Unit-testing, Jest
 
+Мои последние учебные проекты на React: 
+https://dxvil.github.io/ecommerce-react-redux/#/
+https://react-search-images-app.vercel.app/
+https://vercel.com/dxvil/curriculum-vitae-react-app
+
 Пишите, если ищете мотивированного разработчика!
 volikeurope@gmail.com
 
